@@ -64,7 +64,7 @@ This project is a web application designed to help users manage their finance by
    ```bash
    php artisan storage:link
    ```
-   
+
 7. Run the development server
 
     ```bash
@@ -73,7 +73,7 @@ This project is a web application designed to help users manage their finance by
 8. Run the back-end server
 
     ```bash
-    npm run dev
+    php artisan serve
     ```
 
 ## Usage
