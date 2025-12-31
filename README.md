@@ -59,10 +59,21 @@ This project is a web application designed to help users manage their finance by
     php artisan migrate
     ```
 
-6. Run the development server
+6. Link Assets
+   
+   ```bash
+   php artisan storage:link
+   ```
+
+7. Run the development server
 
     ```bash
     npm run dev
+    ```
+8. Run the back-end server
+
+    ```bash
+    php artisan serve
     ```
 
 ## Usage
